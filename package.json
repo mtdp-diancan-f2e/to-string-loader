@@ -1,12 +1,11 @@
 {
-  "name": "to-string-loader",
-  "description": "to-string loader for webpack",
-  "version": "1.1.4",
+  "name": "prajna-preset-loader",
+  "description": "to-string loader for prajna",
+  "version": "1.0.0-beta1",
   "main": "./src/to-string.js",
   "author": {
-    "name": "Gajus Kuizinas",
-    "email": "gk@anuary.com",
-    "url": "http://gajus.com/"
+    "name": "Young Lee",
+    "email": "youngleemails@gmail.com"
   },
   "repository": {
     "type": "git",
